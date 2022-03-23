@@ -1,8 +1,8 @@
 <div align=center>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyangHermes&show_icons=true&theme=github_dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyanghermes&show_icons=true&theme=github_dark)
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyangHermes&layout=compact&theme=github_dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanghermes&layout=compact&theme=github_dark)
 
 </div>
 <div align=center>
